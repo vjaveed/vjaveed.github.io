@@ -10,7 +10,7 @@
     }
     #button1:hover{
     transform: scale(1.15); 
-    transition: .5s;
+    transition: .2s;
     }
     #button2{
     background-color: #e6ffe6;
