@@ -1,0 +1,88 @@
+#button1{
+    background-image: linear-gradient(#000428,#004e92);
+    font-size: 20px;
+    padding: 15px 32px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    text-decoration: none;
+    width:200px;
+    
+    }
+    #button1:hover{
+    transform: scale(1.15); 
+    transition: .5s;
+    }
+    #button2{
+    background-color: #e6ffe6;
+    font-size: 20px;
+    padding: 15px 32px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    text-decoration: none;
+    }
+    #button3{
+    background-image: linear-gradient(#b3b3b3,#ffffff);
+    font-size: 20px;
+    padding: 15px 32px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    text-decoration: none;
+    }
+    #button4{
+    background-image: linear-gradient(#b3b3b3,#99e6ff);
+    font-size: 20px;
+    padding: 15px 32px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    text-decoration: none;
+    
+    }
+    
+    #body1{
+    background-image: linear-gradient(#859398,#283048);/*,#e6dada,#274046*/
+    
+    margin-top: 50px;
+    margin-right: 60px;
+    margin-left: 60px;
+    
+    
+    }
+    #gp{
+    font-size:50px;
+    font-family: "Play", sans-serif;
+    color:#0be4f3;
+    text-shadow: 1px -1px 2px white, 0 0 25px rgb(75, 119, 214), 0 0 5px rgb(113, 56, 245);
+    text-align: center;
+    }
+    .main {
+      margin-left: 160px; /* Same as the width of the sidenav */
+      font-size: 28px; /* Increased text to enable scrolling */
+      padding: 0px 10px;
+    }
+    a:link {
+      text-decoration: none;
+    font-weight: bold;
+    }
+    a {color:white;}         /* Unvisited link  */
+    a:visited {color:white;} /* Visited link    */
+    a:hover {color:white;}   /* Mouse over link */
+    a:active {color:white;} 
+    #tabdiv{
+      margin-left: 80px;
+      margin-top:3px;
+    }
+    #body2{
+      font-size:30px;
+      background-image: linear-gradient(#b3b3b3,#e6ffe6);
+      margin-top: 50px;
+      margin-right: 60px;
+      margin-left: 60px;
+      font-family: 'Courier Prime', monospace;
+      }
+      #cp{
+        color:rgb(2, 41, 63);
+        font-weight: bold;
+        font-size:35px;
+        border-color: rgb(31, 0, 5);
+        border-style: dashed;
+      }
